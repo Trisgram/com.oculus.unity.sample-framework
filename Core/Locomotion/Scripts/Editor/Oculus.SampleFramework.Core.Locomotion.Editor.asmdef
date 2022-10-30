@@ -1,0 +1,18 @@
+{
+    "name": "Oculus.SampleFramework.Core.Locomotion.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c7394a0699131374ba4de230e8b12ec9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
