@@ -1,15 +1,15 @@
 {
-	"name": "com.oculus.unity.sample-framework",
-	"displayName": "Oculus Sample Framework",
-	"description": "Unfficial Oculus Sample Framework as a package for Unity.",
-	"keywords": [],
-	"version": "32.0.0",
-	"unity": "2021.2",
-	"license": "Oculus SDK License",
-	"author": "Facebook Technologies, LLC",
-	"dependencies": {
-		"com.unity.xr.oculus": "1.11.2",
-		"com.oculus.unity-integration": "32.0.0"
-	},
-	"type": "sample"
+  "name": "com.oculus.unity.sample-framework",
+  "displayName": "Oculus Sample Framework",
+  "description": "Unfficial Oculus Sample Framework as a package for Unity.",
+  "keywords": [],
+  "version": "32.0.2",
+  "unity": "2021.2",
+  "license": "Oculus SDK License",
+  "author": "Facebook Technologies, LLC",
+  "dependencies": {
+    "com.unity.xr.oculus": "1.11.2",
+    "com.oculus.unity.integration": "32.0.2"
+  },
+  "type": "sample"
 }
