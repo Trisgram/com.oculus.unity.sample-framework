@@ -4,6 +4,12 @@
 
 Unofficial part of [Oculus Unity Integration](https://developer.oculus.com/downloads/package/unity-integration/) as a package for [Unity](https://unity.com/).
 
+Contains only the samples from Oculus so you don't have to have them in your project if you don't need them. 
+
+IF you want to look at the samples in your own project this package will also include the main integration package:
+
+[![openupm](https://img.shields.io/npm/v/com.oculus.unity.integration?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.oculus.unity.integration/)
+
 ## Installing
 
 ### Via Unity Package Manager and OpenUPM
